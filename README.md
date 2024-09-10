@@ -5,3 +5,4 @@ Technologies Used
 Frontend: HTML
 Design: CSS and JavaScript
 ## Final Output
+![ui-1](https://github.com/user-attachments/assets/327c2782-b7f6-4285-b791-3873bb4da403)
